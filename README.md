@@ -1,6 +1,3 @@
-# .github
-Turning high-value AI opportunities into governed workflows, working prototypes, and sustainable adoption.
-
 # Daly Ventures
 
 ## Turn high-value workflows into AI systems your teams can trust.
